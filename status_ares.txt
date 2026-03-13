@@ -1,1 +1,4 @@
-Ares esta despertando...
+REPORTE AUTÓNOMO DE ARES
+Última actualización: 2026-03-13 11:59
+Datos obtenidos:
+Ares detectó un problema técnico: Command 'proot-distro login debian -- /bin/bash -c 'nmap -F google.com'' returned non-zero exit status 1.
